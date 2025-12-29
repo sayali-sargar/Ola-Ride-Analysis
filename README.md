@@ -47,6 +47,20 @@ It includes information such as booking status, vehicle type, pickup and drop lo
 The data was used to analyze ride trends, cancellations, revenue patterns, and overall customer experience.
 
 
+## SQL Analysis Overview
+
+SQL was used to analyze the Ola ride booking data and answer key business questions. 
+The analysis focused on booking success rates, ride cancellations, revenue calculations, ride distance analysis, and customer and driver ratings. 
+The results from SQL analysis were then used to design meaningful visualizations in Power BI.
+
+
+## Power BI Dashboard Overview
+
+Power BI was used to create an interactive dashboard to visualize key insights from the Ola ride booking data. 
+The dashboard highlights booking trends, cancellation patterns, revenue distribution, ride distance analysis, and customer and driver ratings. 
+These visualizations help in understanding overall performance and identifying areas for improvement.
+
+
 
 
 
