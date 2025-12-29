@@ -61,6 +61,13 @@ The dashboard highlights booking trends, cancellation patterns, revenue distribu
 These visualizations help in understanding overall performance and identifying areas for improvement.
 
 
+## Key Insights
+
+- A majority of ride bookings were completed successfully, indicating stable demand for Ola services  
+- Ride cancellations were observed from both customers and drivers, highlighting operational challenges  
+- Certain vehicle types contributed more significantly to overall revenue  
+- Customer and driver ratings provided insights into service quality and user experience  
+- Booking trends and ride distance patterns helped identify peak usage behavior
 
 
 
